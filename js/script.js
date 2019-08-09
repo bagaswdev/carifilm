@@ -67,7 +67,7 @@ $('#input-pencarian').on('keyup', function(e) {
 
 $('#daftar-film').on('click', '.lihat-detail', function (){
 	$.ajax({
-		url				: 'http://omdbapi.com',
+		url				: 'https://omdbapi.com',
 		type 			: 'get',
 		dataType		: 'json',
 		data 			: {
