@@ -5,7 +5,7 @@ $('#daftar-film').html('');
 	//jalankan fungsi berikut ini 
 
 	$.ajax({
-		url 			: 'http://omdbapi.com',
+		url 			: 'https://omdbapi.com',
 		type 			: 'get',
 		dataType		: 'json',
 		data: {
