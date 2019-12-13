@@ -2,9 +2,12 @@
 
 Selamat Datang.
 
-Ini adalah website portfolio saya yang bernama cari film.
+Ini adalah website portfolio saya yang bernama cari film. 
+Anda bisa cek di alamat berikut ini : https://bagaswdev.github.io/carifilm/
+
 Saya consume API dari http://www.omdbapi.com/
 Di website ini Anda bisa mencari film + melihat detail film tersebut.
+
 Anda dapat melakukan pencarian film dengan memasukkan judul filmnya. Setelah itu Anda dapat melihat beberapa informasi dari film tersebut, seperti :
 
 1. Judul Film.
