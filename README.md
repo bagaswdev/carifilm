@@ -3,6 +3,7 @@
 Selamat Datang.
 
 Ini adalah website portfolio saya yang bernama cari film.
+Saya consume API dari http://www.omdbapi.com/
 Di website ini Anda bisa mencari film + melihat detail film tersebut.
 Anda dapat melakukan pencarian film dengan memasukkan judul filmnya. Setelah itu Anda dapat melihat beberapa informasi dari film tersebut, seperti :
 
